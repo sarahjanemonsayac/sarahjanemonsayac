@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**sarahjanemonsayac/sarahjanemonsayac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sarah Jane O. Monsayac
 
-Here are some ideas to get you started:
+## Personal Information
+**Name:** Sarah Jane O. Monsayac  
+**Education:** Bachelor of Science in Information Technology  
+**Skillsets:** SQL, Database Design, Python, Java, Git, GitHub, Data Analysis, HTML/CSS, JavaScript, Machine Learning, AI Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Project 1:** Simple SQL Queries and Database Design  
+  **Certificate:** [View Certificate](https://courses.cognitiveclass.ai/certificates/8806833f14aa4c8186340e5697acdbf0)
+
+- **Project 2:** Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson for Agentic AI  
+  **Certificate:** [View Certificate](https://apps.cognitiveclass.ai/learning/course/course-v1:BDU+DB0101EN+v1/progress)
+
+## About
+This repository serves as my personal portfolio for tracking skills, certifications, and projects. It showcases my knowledge in databases, programming, and AI integration projects.
