@@ -32,10 +32,17 @@
   ![Certificate](https://img.shields.io/badge/Certificate-View-orange)
   [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1534169016052FB27BC943F945547BEBEC57FA072C4029BA972C28D5782BD746)
 
+* **Project 4:** Oracle Data Platform 2025 Foundations Associate
+  Foundational certification covering Oracle Data Platform concepts, data services, analytics, and data management in the Oracle ecosystem.
+
+  ![Certificate](https://img.shields.io/badge/Certificate-View-orange)
+  [View Certificate](https://brm-certview.oracle.com/ords/certview/ScoreReport?ssn=OC7909828&registrationID=asx-e48f72a6-1ca4-4710-bee2-fd9b0c99a370)
+
 ---
 
 ### About
 
 This repository serves as my personal portfolio for showcasing my skills, certifications, and academic projects in Information Technology, databases, AI integration, and cloud computing.
+
 
 
